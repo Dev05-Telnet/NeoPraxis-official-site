@@ -7,8 +7,8 @@ get in the respective framework to know more about it
 ## Frameworks used
 * [**ReactJs**](./react-js)
     - typescript 
-    - tailwind 
+    - tailwindcss [implementing instruction](https://tailwindcss.com/docs/guides/create-react-app)
 * [**NextJs**](./next-js)
     - typescript 
-    - tailwind 
+    - tailwindcss [implementing instruction](https://tailwindcss.com/docs/guides/nextjs)
 
